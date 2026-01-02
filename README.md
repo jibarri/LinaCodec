@@ -29,6 +29,8 @@ Audio tokenizers directly contribute to speed, quality, and capability of TTS/AS
 | Xcodec2 | 50 | 16khz |
 | Mimi | 200 | 24khz |
 
+Lower tokens/sec means faster models and higher sample rate means more clarity.
+
 ### Usage
 
 Simple 1 line installation:
